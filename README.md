@@ -7,8 +7,6 @@ This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural
 
 I have used Keras to build a LSTM to predict stock prices using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model.
 
-![Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor/blob/master/data_visualization_lstm_improved.png)
-
 
 ## Problem Highlights
 *The challenge of this project is to accurately predict the future closing value of a given stock across a given period of time in the future.  For this project I have used a Long Short Term Memory networks – usually just called “LSTMs” to predict the closing price of the S&P 500 using a dataset of past prices*
